@@ -9,6 +9,7 @@ La aplicación también muestra el recuento total de artículos, así como el n�
 ## Tecnologías utilizadas.-
 * HTML
 * CSS
+  * responsive
 * React
   * useState, useEffect
   * props
@@ -37,4 +38,4 @@ npm run dev
 
 Abra la aplicación en su navegador.
 
-🔗[DEMO]()
+🔗[DEMO](https://planificador-viajes-jr.netlify.app/)
